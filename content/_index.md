@@ -1,5 +1,5 @@
 ---
-title: "Guided Living"
+title: "On Living"
 ---
 
-Short messages.
+Short messages from the Self.
