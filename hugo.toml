@@ -1,0 +1,19 @@
+baseURL = 'https://www.cheeni.net/'
+title = 'Guided living'
+theme = 'etch'
+locale = 'en-US'
+
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = 'Blessings from the father'
+  dark = 'auto'
+  highlight = true
+
+[permalinks]
+  posts = '/:title/'
+
+[markup.goldmark.renderer]
+  unsafe = true
