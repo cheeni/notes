@@ -2,6 +2,7 @@ baseURL = 'https://www.cheeni.net/'
 title = 'On living'
 theme = 'etch'
 locale = 'en-US'
+timeZone = 'Asia/Kolkata'
 
 enableInlineShortcodes = true
 pygmentsCodeFences = true
